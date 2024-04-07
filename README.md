@@ -5,9 +5,6 @@ Built as a showcase for wasm-grate
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![JS](https://img.shields.io/github/languages/top/maddevsio/react-madboiler)
 
-![image](https://user-images.githubusercontent.com/35951221/120291263-f1344a00-c2e4-11eb-9a85-d0201af47802.png)
-
-## Introduction
 # First start
 ### Using docker and docker-compose
 This option is good in that you don't need to install a lot of dependencies on your working device. Docker just encapsulates all that trash.
